@@ -1,0 +1,8 @@
+LOW_H = 1
+LOW_H = 152
+LOW_V = 93
+HIGH_H = 21
+HIGH_S = 229
+HIGH_V = 195
+
+MIN_AREA = 100
